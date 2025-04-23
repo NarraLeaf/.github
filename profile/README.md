@@ -34,7 +34,7 @@ This comparison highlights key differences to help developers choose based on th
 | 🌍 **Localization / Multi-language**    | 🟡 Manual setup or community-based plugins in progress           | ✅ Built-in multi-language and font support                     | ✅ Built-in language switching                                  |
 | 🖼️ **GUI Editor / Visual Tooling**      | ❌ Not available yet (code-only, CLI-based workflow)             | ✅ Basic GUI for script management                              | ✅ Full-featured visual editor for scenes and dialogs           |
 | 🧩 **Plugin / Component Ecosystem**     | ❌ No community plugin ecosystem yet                             | ✅ Community plugins and Python module support                  | ⚠️ Closed system with limited extensibility                     |
-| 🎨 **UI Themes / Visual Templates**     | ❌ Not available, requires custom CSS/JSX implementation         | ⚠️ Customizable via ATL scripting and config files             | ✅ Built-in visual themes and UI templates                      |
+| 🎨 **UI Themes / Visual Templates**     | 🟡 In Development         | ⚠️ Customizable via ATL scripting and config files             | ✅ Built-in visual themes and UI templates                      |
 
 ## Solutions
 
@@ -73,6 +73,8 @@ Documentation and demo site for NarraLeaf-React.
 ### NarraUI (planning)
 
 Quickly customize all the visual novel components you need using a plugin of NarraLeaf-React.
+
+> [NarraUI](https://github.com/NarraLeaf/NarraUI)
 
 ### NarraLang (planning)
 
