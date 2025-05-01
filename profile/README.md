@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NarraLeaf/.github/refs/heads/master/doc/banner-md-transparent.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NarraLeaf/.github/refs/heads/master/doc/banner-md-light.png">
-  <img alt="Fallback image description" src="https://raw.githubusercontent.com/NarraLeaf/.github/refs/heads/master/doc/banner-md-light.png">
+  <img alt="narraleaf banner" src="https://raw.githubusercontent.com/NarraLeaf/.github/refs/heads/master/doc/banner-md-light.png">
 </picture>
 
 # NarraLeaf
@@ -73,7 +73,7 @@ Documentation and demo site for NarraLeaf-React.
 
 > [react.narraleaf.com](https://react.narraleaf.com)
 
-### NarraUI (planning)
+### NarraUI (in progress)
 
 Quickly customize all the visual novel components you need using a plugin of NarraLeaf-React.
 
@@ -86,3 +86,7 @@ Eliminate code with simpler language
 ### NarraLeaf-Editor (planning)
 
 Zero-code, visual asset management
+
+### NarraLeaf.com (planning)
+
+Documentation for NarraLeaf. 
