@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NarraLeaf/.github/refs/heads/master/doc/banner-md-transparent.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NarraLeaf/.github/refs/heads/master/doc/banner-md-light.png">
-  <img alt="Fallback image description" src="https://raw.githubusercontent.com/NarraLeaf/.github/refs/heads/master/doc/banner-md-light.png">
+  <img alt="narraleaf banner" src="https://raw.githubusercontent.com/NarraLeaf/.github/refs/heads/master/doc/banner-md-light.png">
 </picture>
 
 # NarraLeaf
@@ -73,7 +73,7 @@ NarraLeaf-React 的文档与演示站点。
 
 > [react.narraleaf.com](https://react.narraleaf.com)
 
-### NarraUI（规划中）
+### NarraUI（开发中）
 
 使用 NarraLeaf-React 插件快速定制所需的所有视觉小说组件。
 
@@ -86,3 +86,7 @@ NarraLeaf-React 的文档与演示站点。
 ### NarraLeaf-Editor（规划中）
 
 零代码可视化素材管理工具。
+
+### NarraLeaf.com（规划中）
+
+NarraLeaf文档站点
