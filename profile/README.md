@@ -4,11 +4,11 @@
   <img alt="narraleaf banner" src="https://raw.githubusercontent.com/NarraLeaf/.github/refs/heads/master/doc/banner-md-light.png">
 </picture>
 
-# NarraLeaf
+<h1 align="center">NarraLeaf</h1>
 
-English | [中文](./README-zh.md)
+<h4 align="center">A new definition of Visual Novel. </h3>
 
-A new definition of Visual Novel. 
+<p align="center">English | <a href="./README-zh.md">简体中文</a></p>
 
 ## What are we?
 
