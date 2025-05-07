@@ -4,11 +4,11 @@
   <img alt="narraleaf banner" src="https://raw.githubusercontent.com/NarraLeaf/.github/refs/heads/master/doc/banner-md-light.png">
 </picture>
 
-# NarraLeaf
+<h1 align="center">NarraLeaf</h1>
 
-[English](./README.md) | 中文
+<h4 align="center">重新定义视觉小说的可能性。</h3>
 
-重新定义视觉小说的可能性。
+<p align="center"><a href="./README.md">English</a> | 简体中文</p>
 
 ## 我们是谁？
 
