@@ -28,16 +28,16 @@ This comparison highlights key differences to help developers choose based on th
 
 | Feature / Tool                          | **NarraLeaf (React/TypeScript)**                                | **Ren’Py (Python)**                                           | **TyranoBuilder (GUI)**                                        |
 |----------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
-| 🚀 **Lightweight Performance**          | ✅ Zero-render engine, optimized for low-end devices             | ⚠️ Moderate runtime footprint                                  | ⚠️ Heavier rendering, may affect performance on low-end devices |
-| ⚛️ **Modern Web Tech Support**          | ✅ Uses React + TypeScript stack                                 | ❌ Python-based, limited web stack integration                  | ⚠️ Partial JavaScript support                                   |
-| 🧱 **Component Architecture**           | ✅ Modular architecture with reusable React components           | ❌ Linear, script-based structure                               | ❌ Limited customization within visual editor                   |
-| 📦 **Cross-Platform Build**             | ✅ Web-ready and desktop builds via Electron                     | ✅ Supports multiple platforms                                  | ✅ Supports multiple platforms                                  |
-| 🧠 **Technical Skill Requirement**      | ⚠️ Requires experience with JavaScript / React / TypeScript      | ✅ Beginner-friendly scripting with Python                      | ✅ No coding required, drag-and-drop interface                  |
-| 💬 **Scripting Language**               | 🟡 In Development (NarraLang scripting language)         | ✅ Stable scripting with Ren'Py Script (Python-based)           | ✅ Simple visual scripting interface                            |
-| 🧩 **Extendability**                    | ✅ Can leverage full React ecosystem                             | ⚠️ Extendable via Python modules                               | ⚠️ Limited options beyond built-in tools                        |
-| 🌍 **Localization / Multi-language**    | 🟡 Manual setup or community-based plugins in progress           | ✅ Built-in multi-language and font support                     | ✅ Built-in language switching                                  |
-| 🖼️ **GUI Editor / Visual Tooling**      | ❌ Not available yet (code-only, CLI-based workflow)             | ✅ Basic GUI for script management                              | ✅ Full-featured visual editor for scenes and dialogs           |
-| 🎨 **UI Themes / Visual Templates**     | 🟡 In Development (NarraUI Library)         | ⚠️ Customizable via ATL scripting and config files             | ✅ Built-in visual themes and UI templates                      |
+| **Lightweight Performance**          | ✅ Zero-render engine, optimized for low-end devices             | ⚠️ Moderate runtime footprint                                  | ⚠️ Heavier rendering, may affect performance on low-end devices |
+| **Modern Web Tech Support**          | ✅ Uses React + TypeScript stack                                 | ❌ Python-based, limited web stack integration                  | ⚠️ Partial JavaScript support                                   |
+| **Component Architecture**           | ✅ Modular architecture with reusable React components           | ❌ Linear, script-based structure                               | ❌ Limited customization within visual editor                   |
+| **Cross-Platform Build**             | ✅ Web-ready and desktop builds via Electron                     | ✅ Supports multiple platforms                                  | ✅ Supports multiple platforms                                  |
+| **Technical Skill Requirement**      | ⚠️ Requires experience with JavaScript / React / TypeScript      | ✅ Beginner-friendly scripting with Python                      | ✅ No coding required, drag-and-drop interface                  |
+| **Scripting Language**               | ✅ In Development (NarraLang scripting language)         | ✅ Stable scripting with Ren'Py Script (Python-based)           | ✅ Simple visual scripting interface                            |
+| **Extendability**                    | ✅ Can leverage full React ecosystem                             | ⚠️ Extendable via Python modules                               | ⚠️ Limited options beyond built-in tools                        |
+| **Localization / Multi-language**    | 🟡 Manual setup or community-based plugins in progress           | ✅ Built-in multi-language and font support                     | ✅ Built-in language switching                                  |
+| **GUI Editor / Visual Tooling**      | ❌ Not available yet (code-only, CLI-based workflow)             | ✅ Basic GUI for script management                              | ✅ Full-featured visual editor for scenes and dialogs           |
+| **UI Themes / Visual Templates**     | ✅ In Development (NarraUI Library)         | ⚠️ Customizable via ATL scripting and config files             | ✅ Built-in visual themes and UI templates                      |
 
 ## Solutions
 
@@ -48,7 +48,7 @@ This comparison highlights key differences to help developers choose based on th
 Create, build and package your desktop visual novel.  
 Focused on cross-platform desktop applications, with built-in NarraLeaf-React, local save support, and page-based routing. Supports packaging and development server via command-line tools.
 
-- Desktop (Electron) development
+- Desktop (Rust) development
 - Out-of-the-box development server and packaging tools
 - Local storage support, page-level routing control
 - Built-in front-end view engine (NarraLeaf-React)
