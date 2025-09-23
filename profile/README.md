@@ -48,7 +48,7 @@ This comparison highlights key differences to help developers choose based on th
 Create, build and package your desktop visual novel.  
 Focused on cross-platform desktop applications, with built-in NarraLeaf-React, local save support, and page-based routing. Supports packaging and development server via command-line tools.
 
-- Desktop (Rust) development
+- Desktop (Electron) development
 - Out-of-the-box development server and packaging tools
 - Local storage support, page-level routing control
 - Built-in front-end view engine (NarraLeaf-React)
