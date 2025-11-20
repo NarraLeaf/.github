@@ -32,11 +32,11 @@ This comparison highlights key differences to help developers choose based on th
 | **Modern Web Tech Support**          | ✅ Uses React + TypeScript stack                                 | ❌ Python-based, limited web stack integration                  | ⚠️ Partial JavaScript support                                   |
 | **Component Architecture**           | ✅ Modular architecture with reusable React components           | ❌ Linear, script-based structure                               | ❌ Limited customization within visual editor                   |
 | **Cross-Platform Build**             | ✅ Web-ready and desktop builds via Electron                     | ✅ Supports multiple platforms                                  | ✅ Supports multiple platforms                                  |
-| **Technical Skill Requirement**      | ⚠️ Requires experience with JavaScript / React / TypeScript      | ✅ Beginner-friendly scripting with Python                      | ✅ No coding required, drag-and-drop interface                  |
+| **Technical Skill Requirement**      | ✅ TypeScript or zero-code, greater freedom      | ✅ Beginner-friendly scripting with Python                      | ✅ No coding required, drag-and-drop interface                  |
 | **Scripting Language**               | ✅ In Development (NarraLang scripting language)         | ✅ Stable scripting with Ren'Py Script (Python-based)           | ✅ Simple visual scripting interface                            |
 | **Extendability**                    | ✅ Can leverage full React ecosystem                             | ⚠️ Extendable via Python modules                               | ⚠️ Limited options beyond built-in tools                        |
 | **Localization / Multi-language**    | 🟡 Manual setup or community-based plugins in progress           | ✅ Built-in multi-language and font support                     | ✅ Built-in language switching                                  |
-| **GUI Editor / Visual Tooling**      | ❌ Not available yet (code-only, CLI-based workflow)             | ✅ Basic GUI for script management                              | ✅ Full-featured visual editor for scenes and dialogs           |
+| **GUI Editor / Visual Tooling**      | ✅ All-in-One IDE             | ✅ Basic GUI for script management                              | ✅ Full-featured visual editor for scenes and dialogs           |
 | **UI Themes / Visual Templates**     | ✅ In Development (NarraUI Library)         | ⚠️ Customizable via ATL scripting and config files             | ✅ Built-in visual themes and UI templates                      |
 
 ## Solutions
@@ -83,10 +83,14 @@ Quickly customize all the visual novel components you need using a plugin of Nar
 
 Eliminate code with simpler language
 
-### NarraLeaf-Editor (planning)
+### NarraLeaf Studio (in progress)
 
-Zero-code, visual asset management
+Zero-code, All-in-One Visual Novel IDE
 
 ### NarraLeaf.com (planning)
 
 Documentation for NarraLeaf. 
+
+### CharPack (in progress)
+
+Image compression tool for optimizing character assets
