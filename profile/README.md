@@ -26,7 +26,7 @@ NarraLeaf is a lightweight, React-based visual novel engine built for speed and 
 
 This comparison highlights key differences to help developers choose based on their specific project needs.
 
-| Feature / Tool                          | **NarraLeaf (React/TypeScript)**                                | **Ren’Py (Python)**                                           | **TyranoBuilder (GUI)**                                        |
+| Feature / Tool                          | **NarraLeaf**                                | **Ren’Py (Python)**                                           | **TyranoBuilder (GUI)**                                        |
 |----------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
 | **Lightweight Performance**          | ✅ Zero-render engine, optimized for low-end devices             | ⚠️ Moderate runtime footprint                                  | ⚠️ Heavier rendering, may affect performance on low-end devices |
 | **Modern Web Tech Support**          | ✅ Uses React + TypeScript stack                                 | ❌ Python-based, limited web stack integration                  | ⚠️ Partial JavaScript support                                   |
