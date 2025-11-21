@@ -67,6 +67,12 @@ NarraLeaf 是一个基于 React 的轻量级视觉小说引擎，专为速度和
 
 ## 项目展示
 
+### CharPack
+
+用于优化角色素材的图像压缩工具
+
+> [CharPack](https://github.com/NarraLeaf/CharPack)
+
 ### react.narraleaf.com
 
 NarraLeaf-React 的文档与演示站点。
@@ -90,7 +96,3 @@ NarraLeaf-React 的文档与演示站点。
 ### NarraLeaf.com（规划中）
 
 NarraLeaf文档站点
-
-### CharPack（开发中）
-
-用于优化角色素材的图像压缩工具
