@@ -67,6 +67,12 @@ Focused on stage performance, with everything built-in: images, dialogs, and ext
 
 ## Projects
 
+### CharPack
+
+Image compression tool for optimizing character assets
+
+> [CharPack](https://github.com/NarraLeaf/CharPack)
+
 ### react.narraleaf.com
 
 Documentation and demo site for NarraLeaf-React.
@@ -90,7 +96,3 @@ Zero-code, All-in-One Visual Novel IDE
 ### NarraLeaf.com (planning)
 
 Documentation for NarraLeaf. 
-
-### CharPack (in progress)
-
-Image compression tool for optimizing character assets
