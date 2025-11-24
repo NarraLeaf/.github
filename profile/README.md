@@ -4,95 +4,70 @@
   <img alt="narraleaf banner" src="https://raw.githubusercontent.com/NarraLeaf/.github/refs/heads/master/doc/banner-md-light.png">
 </picture>
 
-<h1 align="center">NarraLeaf</h1>
+<h1 align="center">NarraLeaf Project</h1>
 
 <h4 align="center">A new definition of Visual Novel. </h3>
 
 <p align="center">English | <a href="./README-zh.md">简体中文</a></p>
 
-## What are we?
+NarraLeaf Project is a modern visual novel game engine offering multiple solutions. From flexible integration to unified development, it helps unleash your creativity.
 
-We are a team dedicated to building a lighter, faster, and more developer-friendly visual novel engine.
+## Why NarraLeaf?
 
-NarraLeaf is a lightweight, React-based visual novel engine built for speed and developer control. Build and package cross-platform VNs with minimal code and maximum flexibility.
+- **Lighter** - Without heavy rendering libraries, it leverages native web technologies to reduce strain on low-end and mobile devices.
 
-## Why us?
+- **Simpler** - Don't want to write code? Our integrated visual development environment helps you focus on unleashing your creativity.
 
-- ⚡**Lighter** – A zero-rendering engine with minimal overhead, optimized to run smoothly on most low-end devices.
-- 🔧**Faster** - Customizable apps and built-in automation like CI and linting help you build faster with less hassle.
-- 💻**More Developer Friendly** - Standardized front-end development experience with strict typing and no language dependencies
+- **More Professional** - CI/CD pipelines, version control systems, linting tools. Build a true modern application with your team.
 
-### 🔍 Visual Novel Engine Comparison – Pros & Cons
+Additionally, NarraLeaf...
 
-This comparison highlights key differences to help developers choose based on their specific project needs.
-
-| Feature / Tool                          | **NarraLeaf**                                | **Ren’Py (Python)**                                           | **TyranoBuilder (GUI)**                                        |
-|----------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
-| **Lightweight Performance**          | ✅ Zero-render engine, optimized for low-end devices             | ⚠️ Moderate runtime footprint                                  | ⚠️ Heavier rendering, may affect performance on low-end devices |
-| **Modern Web Tech Support**          | ✅ Uses React + TypeScript stack                                 | ❌ Python-based, limited web stack integration                  | ⚠️ Partial JavaScript support                                   |
-| **Component Architecture**           | ✅ Modular architecture with reusable React components           | ❌ Linear, script-based structure                               | ❌ Limited customization within visual editor                   |
-| **Cross-Platform Build**             | ✅ Web-ready and desktop builds via Electron                     | ✅ Supports multiple platforms                                  | ✅ Supports multiple platforms                                  |
-| **Technical Skill Requirement**      | ✅ TypeScript or zero-code, greater freedom      | ✅ Beginner-friendly scripting with Python                      | ✅ No coding required, drag-and-drop interface                  |
-| **Scripting Language**               | ✅ In Development (NarraLang scripting language)         | ✅ Stable scripting with Ren'Py Script (Python-based)           | ✅ Simple visual scripting interface                            |
-| **Extendability**                    | ✅ Can leverage full React ecosystem                             | ⚠️ Extendable via Python modules                               | ⚠️ Limited options beyond built-in tools                        |
-| **Localization / Multi-language**    | 🟡 Manual setup or community-based plugins in progress           | ✅ Built-in multi-language and font support                     | ✅ Built-in language switching                                  |
-| **GUI Editor / Visual Tooling**      | ✅ All-in-One IDE             | ✅ Basic GUI for script management                              | ✅ Full-featured visual editor for scenes and dialogs           |
-| **UI Themes / Visual Templates**     | ✅ In Development (NarraUI Library)         | ⚠️ Customizable via ATL scripting and config files             | ✅ Built-in visual themes and UI templates                      |
+- One app, multiple platforms. Build games for web and desktop with zero barriers.  
+- A robust ecosystem. Build conditional logic, reusable components, and dynamic narratives using the full TypeScript ecosystem.  
+- Highly scalable. Every concept in NarraLeaf is simple, elegant, and intuitive, allowing your project to scale alongside your needs.
 
 ## Solutions
 
-### [NarraLeaf](https://github.com/NarraLeaf/NarraLeaf) – Complete desktop solution
+### [NarraLeaf Studio](https://github.com/NarraLeaf/NarraLeaf-Studio) - All-in-One Visual Novel IDE
 
-> **Less Code Required**  
+A zero-code, all-in-one visual novel IDE.
 
-Create, build and package your desktop visual novel.  
-Focused on cross-platform desktop applications, with built-in NarraLeaf-React, local save support, and page-based routing. Supports packaging and development server via command-line tools.
+An editor that includes all essential development workflows. No coding required. Start unleashing your creativity anytime.
 
-- Desktop (Electron) development
-- Out-of-the-box development server and packaging tools
-- Local storage support, page-level routing control
-- Built-in front-end view engine (NarraLeaf-React)
+### [NarraLeaf](https://github.com/NarraLeaf/NarraLeaf) – Complete Desktop Solution
 
-### [NarraLeaf-React](https://github.com/NarraLeaf/narraleaf-react) - Embedded VN player solution
+A Node.js library and CLI tool for handling every part of your development workflow.
 
-> **Maximum customizability**
+Build cross-platform visual novels for desktop as easily as creating a React app. NarraLeaf handles everything else for you; like game flow, testing, and packaging.
 
-A lightweight front-end visual novel player built for React.  
-Focused on stage performance, with everything built-in: images, dialogs, and extensible React components.
+### [NarraLeaf-React](https://github.com/NarraLeaf/narraleaf-react) - Embedded VN Player Solution
 
-- Suitable for web or custom front-end
-- Complete stage management system (Stage Manager)
-- React component architecture, support for extension and customization
-- Can be independently integrated into any React application
+A lightweight front-end visual novel player built for React.
+
+NarraLeaf-React delivers everything you need for compelling storytelling: narratives, interfaces, and performance. With its simple, intuitive API, bring your stage to any web platform.
 
 ## Projects
 
-### CharPack
+### [@NarraLeaf/CharPack](https://github.com/NarraLeaf/CharPack)
 
 Image compression tool for optimizing character assets
 
-> [CharPack](https://github.com/NarraLeaf/CharPack)
+### [@NarraLeaf/Sound](https://github.com/NarraLeaf/Sound)
 
-### react.narraleaf.com
+A lightweight and modern HTML audio management solution, suitable for simple web games.
+
+### [react.narraleaf.com](https://react.narraleaf.com)
 
 Documentation and demo site for NarraLeaf-React.
 
-> [react.narraleaf.com](https://react.narraleaf.com)
-
-### NarraUI (in progress)
+### [NarraUI](https://github.com/NarraLeaf/NarraUI)
 
 Quickly customize all the visual novel components you need using a plugin of NarraLeaf-React.
 
-> [NarraUI](https://github.com/NarraLeaf/NarraUI)
-
-### NarraLang (planning)
+### [NarraLang](https://github.com/NarraLeaf/NarraLang)
 
 Eliminate code with simpler language
 
-### NarraLeaf Studio (in progress)
+### [NarraLeaf Demo](https://github.com/NarraLeaf/NarraLeaf-Demo)
 
-Zero-code, All-in-One Visual Novel IDE
-
-### NarraLeaf.com (planning)
-
-Documentation for NarraLeaf. 
+Simple demo project for NarraLeaf.
