@@ -9,6 +9,7 @@
 <h4 align="center">视觉小说新定义</h3>
 
 <p align="center"><a href="./README.md">English</a> | 简体中文</p>
+<p align="center"><a href="https://narraleaf.com">官方网站</a></p>
 
 NarraLeaf Project 是一个现代视觉小说游戏引擎，提供多种解决方案。从灵活集成到统一开发，它帮助释放创作者的创造力。
 
