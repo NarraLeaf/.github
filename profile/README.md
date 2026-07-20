@@ -17,6 +17,8 @@ NarraLeaf Project is a modern visual novel game engine that provides multiple so
 
 ### [NarraLeaf Studio](https://github.com/NarraLeaf/NarraLeaf-Studio) - All-in-One Visual Novel IDE
 
+![NarraLeaf Studio preview](../doc/studio-preview-wide.png)
+
 ![Screenshots](../doc/screenshots-grid.png)
 
 Zero-code, all-in-one visual novel IDE.
