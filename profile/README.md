@@ -39,6 +39,12 @@ A lightweight front-end visual novel player built for React.
 
 NarraLeaf-React delivers everything you need for compelling storytelling: narratives, interfaces, and performance. With its simple, intuitive API, bring your stage to any web platform.
 
+### [NarraLeaf Team](https://github.com/NarraLeaf/NarraLeaf-Team) - Team Collaboration Solution
+
+The collaboration solution for NarraLeaf Studio.
+
+Team deploys easily onto a device on your own network or a remote container, and gives everyone on the team central version management and real-time collaboration (in development). With Team, creators sync the team's projects and start working right away.
+
 ## More Projects
 
 ### [@NarraLeaf/CharPack](https://github.com/NarraLeaf/CharPack)

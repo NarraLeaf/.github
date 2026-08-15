@@ -39,6 +39,12 @@ Node.js 库和 CLI 工具，用于处理开发工作流的每个部分。
 
 NarraLeaf-React 为引人入胜的故事叙述提供您所需的一切：叙事、界面和性能。通过其简单、直观的 API，将您的舞台带到任何 Web 平台。
 
+### [NarraLeaf Team](https://github.com/NarraLeaf/NarraLeaf-Team) - 团队协作解决方案
+
+NarraLeaf Studio 的协作解决方案。
+
+Team 可以轻松部署在内网设备或远程容器中，为所有团队成员提供中心化的版本管理与实时协作（正在开发中）。使用 Team，创作者可以即刻同步团队项目并开始工作。
+
 ## 更多项目
 
 ### [@NarraLeaf/CharPack](https://github.com/NarraLeaf/CharPack)
