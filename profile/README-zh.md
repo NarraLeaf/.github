@@ -17,6 +17,10 @@ NarraLeaf Project 是一个现代视觉小说游戏引擎，提供多种解决�
 
 ### [NarraLeaf Studio](https://github.com/NarraLeaf/NarraLeaf-Studio) - 一体化视觉小说 IDE
 
+[![NarraLeaf Studio 视频](../doc/studio-video.jpg)](https://www.youtube.com/watch?v=pLx5T0AdRHA)
+
+<p align="center"><a href="https://www.youtube.com/watch?v=pLx5T0AdRHA">在 YouTube 上观看（2:48）</a></p>
+
 ![NarraLeaf Studio preview](../doc/studio-preview-wide.png)
 
 ![Screenshots](../doc/screenshots-grid.png)
